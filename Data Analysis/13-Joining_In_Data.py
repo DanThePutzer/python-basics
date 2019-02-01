@@ -26,7 +26,7 @@ def mortgage_30y():
 
 
 # Loading data from pickle so we dont have to connect to quandl every time
-MORTG_Data = pd.read_pickle('13-Data/Mortgage30y.pickle')
+MORTG_Data = pd.read_pickle('13-Data/Mortgage30yPctRelative.pickle')
 MORTG_Data = MORTG_Data.resample('D').mean()
 MORTG_Data = MORTG_Data.resample('M').mean()
 
@@ -42,8 +42,8 @@ fig = plt.figure()
 ax1 = plt.subplot2grid((3,1), (0,0))
 ax2 = plt.subplot2grid((3,1), (1,0), rowspan=2)
 
-print(HPI_Bench.head())
-print(MORTG_Data.head())
+print(HPI_M30.head())
+# print(MORTG_Data.head())
 
 HPI_Bench.plot(ax=ax1, sharex=ax2)
 MORTG_Data.plot(ax=ax2, color='r')
