@@ -19,6 +19,6 @@ Python
 
 ### Links To Resources: ###
 
-**• Data Analysis With Python Tutorial Series** - [View](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-)
+• Data Analysis With Python Tutorial Series - [View](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-)
 
-**• SQLite Tutorial Series** - [View](https://www.youtube.com/playlist?list=PLQVvvaa0QuDezJh0sC5CqXLKZTSKU1YNo)
+• SQLite Tutorial Series - [View](https://www.youtube.com/playlist?list=PLQVvvaa0QuDezJh0sC5CqXLKZTSKU1YNo)
