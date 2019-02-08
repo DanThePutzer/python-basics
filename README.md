@@ -15,6 +15,8 @@ Python
              
 **• SQLite** - Messing around with SQLite and getting to know the basics
 
+**• Own Tries** - Some of my own (not very successful) implementations of simple algorithms from scratch
+
 - - - -
 
 ### Links To Resources: ###
