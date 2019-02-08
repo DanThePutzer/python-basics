@@ -2,12 +2,12 @@
 
 All kinds of python basic tutorial exercises from YouTube to get familiar with the language and packages used in the field of data science and machine learning.
 
-======
+- - - -
 
 ### Programming Languages: ###
 Python
 
-======
+- - - -
 
 ### Index: ###
 **• Data Analysis** - Working with Pandas and several different file and data types to gain some routine in organizing and
@@ -15,7 +15,7 @@ Python
              
 **• SQLite** - Messing around with SQLite and getting to know the basics
 
-======
+- - - -
 
 ### Links To Resources: ###
 
