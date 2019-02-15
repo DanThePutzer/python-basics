@@ -10,17 +10,17 @@ Python
 - - - -
 
 ### Index: ###
-**• Data Analysis** - Working with Pandas and several different file and data types to gain some routine in organizing and
-                      cleaning datasets
+* **Data Analysis** - Working with Pandas and several different file and data types to gain some routine in organizing and
+                    cleaning datasets
              
-**• SQLite** - Messing around with SQLite and getting to know the basics
+* **SQLite** - Messing around with SQLite and getting to know the basics
 
-**• Own Tries** - Some of my own (not very successful) implementations of simple algorithms from scratch
+* **Own Tries** - Some of my own (not very successful) implementations of simple algorithms from scratch
 
 - - - -
 
 ### Links To Resources: ###
 
-• Data Analysis With Python Tutorial Series - [View](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-)
+* Data Analysis With Python Tutorial Series - [View](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-)
 
-• SQLite Tutorial Series - [View](https://www.youtube.com/playlist?list=PLQVvvaa0QuDezJh0sC5CqXLKZTSKU1YNo)
+* SQLite Tutorial Series - [View](https://www.youtube.com/playlist?list=PLQVvvaa0QuDezJh0sC5CqXLKZTSKU1YNo)
